@@ -15,5 +15,5 @@ Desde que era niño, la informática ha sido mi pasión. Aunque he trabajado en 
 Una vez que termine esta titulación, mi mayor interés es seguir formándome en el mundo del backend y, quién sabe, tal vez iniciar una carrera en Ingeniería Informática o de Software. 
 En el ámbito personal, me considero un auténtico apasionado de la tecnología y un "friki" más de este mundo.
 
-¡Acompáñame en mi viaje de aprendizaje y desarrollo! 🚀
+¡Vamos allá! 🚀
 

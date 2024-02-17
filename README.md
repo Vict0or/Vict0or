@@ -6,7 +6,7 @@
 - 💻 Apasionado por la informática desde una edad temprana.
 - 👨‍💻 Interesado en el mundo del desarrollo y la programación.
 - 🛠️ Experiencia en soporte técnico y gestión de áreas técnicas.
-- 🎯 Objetivo: Continuar mi formación en el mundo del backend y explorar la Ingeniería Informática o de Software.
+- 🎯 Objetivo: Continuar mi formación en el mundo del Desarrollo y explorar la Ingeniería Informática o de Software.
 
 ## Acerca de mí
 
